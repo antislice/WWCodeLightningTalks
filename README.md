@@ -1,3 +1,3 @@
 WWCodeLightningTalks
 ====================
-http://antislice.github.io/WWCodeLightningTalk
+http://antislice.github.io/WWCodeLightningTalks
